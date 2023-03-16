@@ -1,0 +1,11 @@
+div{
+    width: 50rem;
+    height: auto;
+    margin: 10% auto;
+    text-align: center;
+}
+button{
+    background-color: red;
+    height: 8rem;
+    width: 30rem;
+}
